@@ -49,7 +49,7 @@ function Home() {
         <div class="card-body">
           <h5 class="card-title">Download You Android .apk file here and install <span><div class="blink">Download Available</div>
 </span></h5>
-         <a href="https://drive.google.com/uc?export=download&id=1oKbegtEI4oavbJq8u4Y8nwIfx8BWs778"  class="btn btn-primary">Download</a>
+         <a href={appurl}  class="btn btn-primary">Download</a>
    
 
         </div>
